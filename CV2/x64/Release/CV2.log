@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\code\cv\CV-lab-2\CV2\Header.h(32,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\cv\CV-lab-2\CV2\Header.h(33,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\cv\CV-lab-2\CV2\Header.h(34,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\cv\CV-lab-2\CV2\Header.h(35,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\cv\CV-lab-2\CV2\Header.h(51,48): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=cv::DataType<cv::RotatedRect>::channel_type
+          ]
+D:\code\cv\CV-lab-2\CV2\main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  0 of 348 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CV2.vcxproj -> D:\code\cv\CV-lab-2\x64\Release\CV2.exe

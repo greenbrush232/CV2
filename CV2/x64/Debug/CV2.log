@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Programs\Study\CV-lab-2\CV2\Header.h(32,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\Study\CV-lab-2\CV2\Header.h(33,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\Study\CV-lab-2\CV2\Header.h(34,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\Study\CV-lab-2\CV2\Header.h(35,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\Study\CV-lab-2\CV2\Header.h(51,48): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=cv::DataType<cv::RotatedRect>::channel_type
+          ]
+D:\Programs\Study\CV-lab-2\CV2\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CV2.vcxproj -> D:\Programs\Study\CV-lab-2\x64\Debug\CV2.exe
