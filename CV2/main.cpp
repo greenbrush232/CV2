@@ -22,7 +22,6 @@ void main()
     cv::Mat l5 = Softmax(maxPoolingLayer);
 
     cv::imshow("Image", source_image);
-    cv::imshow("convolutionLayer", convolutionLayer);
     cv::waitKey(0);
 
     system("pause");
